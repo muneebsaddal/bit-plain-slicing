@@ -3,3 +3,6 @@
   
 # negative
   producing negative of binarized, grayscale and rgb image.
+
+# gradient
+  vertical edges detected using gradient
