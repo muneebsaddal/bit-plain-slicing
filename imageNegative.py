@@ -1,7 +1,5 @@
 from PIL import Image
 
-img = Image.open("lena_color.gif").convert("RGB").save("lena_rgb.png")
-
 #Converting to Negative -- for RBG image
 img_file = Image.open("lena_rgb.png")
 img = img_file.load()
